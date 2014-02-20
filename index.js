@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var classes = require('classes');
-var query = require('query');
+var classes = require('component-classes');
+var query = require('component-query');
 
 /**
  * Expose `Flipbox`.
